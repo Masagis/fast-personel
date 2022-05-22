@@ -13,7 +13,7 @@ To run and use this repo, here are the steps you can do.
 1. Clone this repo to your computer
 
 ```sh
-git clone this repo
+git clone `https://github.com/Masagis/fast-personel.git`
 ```
 
 2. change directory root repo
